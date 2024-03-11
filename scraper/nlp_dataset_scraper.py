@@ -1,18 +1,4 @@
-#can make efficient by not picking if tags len aka total label = 1
-#don't enter attributed-no-source, quote-investigator
-#if attributed, misattributed, no-source in tag then revise
-#remove christian , donkey and hitchshit, harari, sam harris, 
-# gay, glbt, lesbian, lgbt, queer,
 
-#Possibilities of this classifier:
-'''from mainly quotes and poetry, song, convesation dialogue input. automate hashtag, '''
-#suggest simliar famous person, books, fictional character, franchise related to input. 
-# so you can explore new horizons according to your interest.
-#quote with poetic tendency. so you can 
-
-#after revise check:
-
-# maxlen(tag) 
 
 
 from selenium.webdriver.chrome.options import Options
