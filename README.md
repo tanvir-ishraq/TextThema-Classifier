@@ -33,7 +33,7 @@ Fine-tuned a `roberta-base` (RoBERTa) model which is a transformers model from H
 <!--## Benchmark -->
 
 ## Model Compression and ONNX Inference
-The trained model has a memory of 900+MB. I compressed this model using ONNX quantization and brought it to 125MB. 
+The trained model has a memory of 900+MB. I compressed this model using ONNX quantization and brought it to 125MB.  Achieving **86.11%** reduction size.
 
 
 
