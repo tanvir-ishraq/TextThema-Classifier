@@ -1,3 +1,3 @@
-Get pytorch and onnx models here: https://drive.google.com/drive/folders/1Pcj56FBXwuwF1HOAHeuqDzKxF9xVq5Rw?usp=sharing <br/>
+Get pytorch and onnx models here: https://huggingface.co/spaces/tanvir-ishraq/quote-text-style-classifier/tree/main <br/>
 
-`quote-classifier.onnx` is the final deployed model.
+`quote-text-classifier-quantized.onnx` is the final deployed model.
